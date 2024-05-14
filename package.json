@@ -32,13 +32,13 @@
     "blk-design-system-react"
   ],
   "dependencies": {
-    "@testing-library/jest-dom": "5.11.6",
+    "@testing-library/jest-dom": "6.0.0",
     "@testing-library/react": "11.2.2",
     "@testing-library/user-event": "12.2.2",
     "bootstrap": "4.5.3",
     "chart.js": "2.9.4",
     "classnames": "2.2.6",
-    "gulp": "4.0.2",
+    "gulp": "5.0.0",
     "gulp-append-prepend": "1.0.8",
     "moment": "2.29.1",
     "node-sass": "4.14.1",
@@ -50,7 +50,7 @@
     "react-datetime": "3.0.4",
     "react-dom": "17.0.1",
     "react-router-dom": "5.2.0",
-    "react-scripts": "4.0.1",
+    "react-scripts": "5.0.0",
     "reactstrap": "8.7.1",
     "web-vitals": "1.0.1"
   },
